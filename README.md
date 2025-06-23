@@ -6,9 +6,10 @@
 Ryzen 5900HX &amp; GeForce RTX-3050</h2>
 
 
-<p align="center"><img src="https://img.shields.io/badge/Model-M7400QC-green
-" alt="" />&nbsp;<img src="https://img.shields.io/badge/AMD-5900HX-black" alt="" />&nbsp;<img src="https://img.shields.io/badge/MacOS-Tahoe%20(26)-purple
-" alt="" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Model-M7400QC-green" alt="" />&nbsp;
+<img src="https://img.shields.io/badge/AMD-5900HX-black" alt="" />&nbsp;
+<img src="https://img.shields.io/badge/MacOS-Tahoe%20(26)-purple" alt="" /></p>
 <p align="center">
 
 ![MSI Modern 14 - Tahoe Edition](pro14xtahoe.jpg)
