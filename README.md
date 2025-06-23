@@ -18,7 +18,7 @@ Ryzen 5900HX &amp; GeForce RTX-3050</h2>
 
 _Information available only for possible references. I do not recommend following all the information presented here._
 
-You can refer this tuitorial : [Link](https://www.youtube.com/watch?v=aXekpCbt2GQ)
+You can refer this tutorial : [Link](https://www.youtube.com/watch?v=aXekpCbt2GQ) & image from [olarila](https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
 
 ## Table of Contents
 
